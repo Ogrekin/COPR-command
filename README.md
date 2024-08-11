@@ -1,4 +1,5 @@
-# standalone copr command
+# Private fork, This is the original https://github.com/boredsquirrel/copr-command
+
 This Tool is not made or supported by the Fedora Project,
 but aims to reproduce the `dnf copr` functionalities for easily adding COPRs on Fedora Atomic.
 
